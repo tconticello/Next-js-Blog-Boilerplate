@@ -1,8 +1,8 @@
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Next.js Boilerplate',
+  title: 'Next.js Datakimia Blog',
   description:
-    'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
+    'Find multiple entries about open source tools to transform your organization',
   url: 'https://example.com',
   locale: 'en',
   author: 'Anonymous',
