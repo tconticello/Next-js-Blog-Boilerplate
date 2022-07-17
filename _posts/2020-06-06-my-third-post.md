@@ -1,12 +1,12 @@
 ---
-title: 'My third post'
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-date: '2020-06-06'
-modified_date: '2020-06-06'
-image: /assets/images/posts/random-img.jpg
+title: 'Starting with Airflow'
+description: We will cover the basics of Airflow and how this Open Source tool can help our organization.
+date: '2022-07-01'
+modified_date: '2022-07-01'
+image: /assets/images/posts/airflow.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Apache Airflow. Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
 Example with image:
 
